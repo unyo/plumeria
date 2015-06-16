@@ -13,3 +13,5 @@ Note: For Windows XP or older
 ## Notes
 
 This project is no longer maintained. I made this to help sort images back in the day before a .gif image viewer was packaged with Windows.
+
+Old project home: http://plumeria.sf.net
